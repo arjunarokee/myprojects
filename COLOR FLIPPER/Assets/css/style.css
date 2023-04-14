@@ -1,0 +1,43 @@
+.nav-color {
+    background-color: white;
+}
+.nav-content {
+    margin-top: -18px;
+    text-decoration: double;
+    font-size: 20px;
+    display: flex;
+    margin-left: 415px;
+    color: rgb(21, 167, 167);
+}
+.nav-links {
+    display: flex;
+    margin-top: 25px;
+    margin-left: 300px;
+
+}
+.container {
+    margin-top: 174px;
+    height: 200px;
+    margin-left: 453px;
+    background-color: black;
+    font-size: 25px;
+    color: white;
+    width: 461px;
+    height: 86px;
+    padding-left: 28px;
+    border-radius: 11px;
+}
+.btn {
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 150px;
+    height: 37px;
+    width: 120px;
+    font-size: 23px;
+    font-family: monospace;
+    border-radius: 11px;
+}
+.btn:hover {
+    background-color: black;
+    color: white;
+}
